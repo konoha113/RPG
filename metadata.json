@@ -1,0 +1,6 @@
+{
+  "name": "Retro RPG",
+  "description": "コマンド選択式のレトロ風ファンタジーRPG。ダンジョン探索、ターン制戦闘、装備強化、そして魔王討伐を楽しめます。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
